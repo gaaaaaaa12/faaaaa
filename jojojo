@@ -1,0 +1,15 @@
+```mermaid
+graph TD;
+    A[Inicio] --> B[Recepción de ingredientes]
+    B --> C[Molienda de granos]
+    C --> D[Mezcla de granos y agua]
+    D --> E[Cocción de la mezcla]
+    E --> F[Enfriamiento del mosto]
+    F --> G[Fermentación]
+    G --> H[Maduración]
+    H --> I[Filtrado y clarificación]
+    I --> J[Carbonatación]
+    J --> K[Envasado]
+    K --> L[Control de calidad]
+    L --> M[Almacenamiento]
+    M --> N[Fin]
